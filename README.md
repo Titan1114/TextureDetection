@@ -7,7 +7,7 @@ A brief description of what this project does and who it's for
 ## How to Use
 Add the texture images that you want to be compared in the "Input_images" folder.
 
-Run the "TextureDetectionUsingOpenCV" file and enter the name of the images along with the extension whem prompted.
+Run the "TextureDetectionUsingOpenCV" file and enter the name of the images along with the extension when prompted.
 
 Run the program and if the correlation function returns a value lesser than 0.4 then the image texture are similar.
 
